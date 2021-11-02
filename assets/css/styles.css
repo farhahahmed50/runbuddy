@@ -76,12 +76,13 @@ footer {
     background-position: center;
   }
   
-  .heroform{
-
+  .heroform {
     background-color: #fce138;
     padding: 20px;
     width: 500px;
     color: #024e76;
-
+    border-style: solid;
+     border-width: 3px;
+    border-color: #024e76
   }
-  
+
