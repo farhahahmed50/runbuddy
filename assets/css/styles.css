@@ -67,3 +67,21 @@ footer {
     color: #024e76;
   }
   
+
+  .hero{ /* hero <section>, is given background img", its .hero class selector is used because we want the 1 img for the whole hero section!*/
+    padding: 60px;
+    background-image: url("../images/hero-bg.jpg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .heroform{
+
+    background-color: #fce138;
+    padding: 20px;
+    width: 500px;
+    color: #024e76;
+
+  }
+  
