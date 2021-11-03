@@ -67,6 +67,9 @@ footer {
     color: #024e76;
   }
   
+section {
+    padding: 60px;
+}
 
   .hero{ /* hero <section>, is given background img", its .hero class selector is used because we want the 1 img for the whole hero section!*/
     padding: 60px;
@@ -86,6 +89,10 @@ footer {
     position: absolute;
     bottom: 120px;
     right: 140px;
+  }
+  .heroform h3 {
+    font-size: 24px;
+    margin: 0;
   }
 
   .heroform p {
@@ -112,4 +119,7 @@ footer {
     border: none;
     padding: 10px 20px;
     font-size: 16px;
+    
   }
+
+  
